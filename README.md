@@ -1,4 +1,4 @@
-# 04_BattleTank
+﻿# 04_BattleTank
 Open world tank-fight game project in UunrealEngine4
 
 
@@ -26,3 +26,8 @@ This is the [Unreal Engine Developer]( http://gdev.tv/urcgithub) course – it s
 + Heavy focus on control systems
 + Also learning terrains, UI, terrain sculpting & more
 + Dive right in and enjoy yourself!
+
+
+###Zmiany w kolejnych sesjach
+
++Założenie organizacji i repozytorium na GitHubie, sklonowanie do SourceTree, testy na commitach i ich aktualizacji
